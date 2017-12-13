@@ -1,0 +1,28 @@
+#h {
+    margin-top:40px;
+   width:680px;
+    overflow:auto;
+    height:450px;
+    margin:0 auto;
+}
+
+#k {
+    width: 1140px;
+    display: inline-block;
+    color: #000000;
+    text-align: center;
+    height:280px;
+}
+#main{
+    height:315px;
+    width:570px;
+    margin-left:490px;
+    margin-top:68px;
+}
+#j{
+    height:290px;
+    width:170px;
+     background:url(image/2.jpg);
+    background-attachment:fixed;
+    background-position:0px 85px
+}
